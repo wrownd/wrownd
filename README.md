@@ -1,1 +1,1 @@
-[![Hello](https://readme-typing-svg.herokuapp.com?duration=2500&center=true&vCenter=true&width=600&lines=Hello!;I'm+William;I'm+a+fullstack+developer;I+like+web+development;%2B+Especially+in+Express.js;]()
+[![Hello](https://readme-typing-svg.herokuapp.com?duration=2500&center=true&vCenter=true&width=600&lines=Hello!;I'm+William;I'm+a+fullstack+developer;I+like+web+development;%2B+Especially+in+Express.js;](#)
